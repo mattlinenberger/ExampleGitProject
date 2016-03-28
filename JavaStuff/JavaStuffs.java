@@ -7,4 +7,9 @@ public class JavaStuffs{
 		System.out.println("Hello, world!");
 	}
 	
+	
+	public void woot(){
+		//this method woots, HARD!
+	}
+	
 }
