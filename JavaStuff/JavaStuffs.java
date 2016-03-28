@@ -1,11 +1,9 @@
-publcallasdf
 
-asdf
-as
-dasf
-asdf
-asf
-asdf
-as
-fasd
-fas
+
+public class JavaStuffs{
+	
+	public static void main(String[] args) {
+		System.out.println("Hello, world!");
+	}
+	
+}
